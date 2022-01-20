@@ -8,7 +8,7 @@
 
    
 
-- 🌱 I’m currently learning **Data Visualtization tools** 
+- 🌱 I’m currently learning **Python Libraries** 
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
