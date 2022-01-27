@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfAuogomRwaucdV1A36ul5BwSXP9OH6jehOmTKjSrmj9GMuj61Yh-voq-j-tG3fsaiWCY&usqp=CAU" </a>
+<a href="#"><img width="100%" height="auto" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfAuogomRwaucdV1A36ul5BwSXP9OH6jehOmTKjSrmj9GMuj61Yh-voq-j-tG3fsaiWCY&usqp=CAU"></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Tanay</h1>
 <h3 align="center">I'm a passionate Front End Developer and a Data Science Enthusiast from India.</h3>
