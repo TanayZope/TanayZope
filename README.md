@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYj4nmBrdn-H9CiFQ11vsqNbnvgIO8ywX-Ug&usqp=CAU" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Tanay</h1>
 <h3 align="center">I'm a passionate Front End Developer and a Data Science Enthusiast from India.</h3>
