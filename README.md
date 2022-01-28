@@ -1,4 +1,4 @@
-<a href="#"><img width="80%" height="auto" src="https://png.pngitem.com/pimgs/s/112-1127587_software-hire-developers-hd-png-download.png"></a>
+<a href="#"><img width="80%" height="auto" src="https://i.imgur.com/iXuL1HG.png"></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Tanay</h1>
 <h3 align="center">I'm a passionate Front End Developer and a Data Science Enthusiast from India.</h3>
