@@ -8,13 +8,13 @@
 
    
 
-- 🌱 I’m currently learning **Python Libraries** 
+- 🌱 I’m currently working on a **Sales Insights Project ** 
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 📫 How to reach me **zopetanay@gmail.com**
+- 📫 How to reach me **tanaywork5302@gmail.com**
 
-- ⚡  **I like playing games and Working out.**
+- ⚡  **I like watching thriller and horror genre movies and lifitng weights .**
 
 ## 🚀 Languages and Tools:
 
