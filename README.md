@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **tanaywork5302@gmail.com**
 
-- ⚡  **I like watching thriller and horror genre movies and lifitng weights .**
+- ⚡  **I like watching thriller/horror genre movies and lifitng weights .**
 
 ## 🚀 Languages and Tools:
 
