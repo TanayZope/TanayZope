@@ -1,20 +1,20 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png"></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Tanay</h1>
-<h3 align="center">I'm a passionate Front End Developer and a Data Science Enthusiast from India.</h3>
+<h3 align="center">I'm a passionate Data Engineer and a data enthusiast .</h3>
 
 
 ## 🙋‍♂️ About Me
 
    
 
-- 🌱 I’m currently working on a **Sales Insights Project ** 
+- 🌱 I’m currently working on a **twitter data pipeline project ** 
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 📫 How to reach me **tanaywork5302@gmail.com**
 
-- ⚡  **I like watching thriller/horror genre movies and lifitng weights .**
+- ⚡  **I like watching thriller/horror genre movies and lifting weights .**
 
 ## 🚀 Languages and Tools:
 
