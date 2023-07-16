@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 📫 How to reach me **tanaywork5302@gmail.com**
+- 📫 How to reach me **zopetanay00@gmail.com**
 
 - ⚡  **I like watching thriller/horror genre movies and lifting weights .**
 
