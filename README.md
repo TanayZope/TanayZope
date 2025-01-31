@@ -8,7 +8,7 @@
 
    
 
-- 🌱 I’m currently working on a **twitter data pipeline project ** 
+- 🌱 I’m currently working on a **Real-Time Stock Data Analysis project ** 
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
