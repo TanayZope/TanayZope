@@ -19,17 +19,26 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <a href="https://www.cplusplus.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.javascript.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
+    <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a>  
-    <a href="hhttps://powerbi.microsoft.com/en-us/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/power-bi.png"/>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://www.tableau.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tableau-software.png"/>  </a> 
+    <a href="https://www.tableau.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tableau-software.png"/> </a>  
+    <a href="https://kafka.apache.org/" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-apache-kafka-is-an-open-source-stream-processing-software-logo-color-tal-revivo.png"/> </a>
+    <a href="https://spark.apache.org/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/apache-spark.png"/> </a>
+    <a href="https://airflow.apache.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" alt="airflow" width="48" height="48"/> </a>
+    <a href="https://hbase.apache.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Apache_HBase_logo.svg/1200px-Apache_HBase_logo.svg.png" alt="hbase" width="48" height="48"/> </a>
+    <a href="https://hive.apache.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/6/62/Apache_Hive_logo.svg" alt="hive" width="48" height="48"/> </a>
+    <a href="https://hadoop.apache.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Hadoop_logo_new.svg" alt="hadoop" width="48" height="48"/> </a>
+    <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="machine learning" width="48" height="48"/> </a>
+    <a href="https://www.deeplearning.ai/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Deep_Learning_Logo.png" alt="deep learning" width="48" height="48"/> </a>
+    <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="pandas" width="48" height="48"/> </a>
+    <a href="https://numpy.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="numpy" width="48" height="48"/> </a>
+    <a href="https://www.java.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
 </p>
+
   
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
