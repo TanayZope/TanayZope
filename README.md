@@ -8,7 +8,7 @@
 
    
 
-- 🌱 I’m currently Learning about **Gen-AI ** 
+- 🌱 I’m currently Learning about **Gen-AI** 
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
